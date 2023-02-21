@@ -8707,17 +8707,17 @@
         c = [
           {
             name: "Web Application Development",
-            desc: "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design user interface design  authoring, including standardised code and proprietary software user experience design and search engine",
+            desc: "including standardised code and proprietary software user experience design",
             img: "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
           },
           {
             name: "Mobile Application Development",
-            desc: "A range of mobile application development services\n    including custom mobile development on Android platforms, building\n    cross-platform apps, designing user experience and integrating\n    novel mobile interfaces such as chat and voice",
+            desc: "Including custom mobile development on Android platforms and PWA",
             img: "https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-app-development-responsive-web-design-justicon-lineal-color-justicon.png",
           },
           {
-            name: "Backend Development",
-            desc: "Graphic design is a craft where professionals create visual\n    content to communicate messages. By applying visual hierarchy and\n    page layout techniques, designers use typography and pictures to\n    meet users' specific needs and focus on the logic of displaying\n    elements in interactive designs, to optimize the user experience.",
+            name: "Fullstack Development",
+            desc: "Backend and frontend development of a small and efficient website",
             img: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-backend-no-code-flaticons-flat-flat-icons.png",
           },
         ],
@@ -15034,7 +15034,7 @@
                           (0, f.jsx)("span", {
                             className: "block text-blue-500 z-0 lg:inline",
                             children: (0, f.jsx)(Ll, {
-                              steps: ["Front End Developer", 1e3, "Full Stack Developer", 1e3, "Mobile Developer", 1e3],
+                              steps: ["Front End Developer", 1e3, "Full Stack Developer", 1e3],
                               loop: 1 / 0,
                             }),
                           }),
@@ -15044,8 +15044,7 @@
                         className: t
                           ? "mt-3 text-base text-black sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
                           : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0",
-                        children:
-                          "I am a Front-End / Full-Stack Developer. I am currently working as a Front-End Developer",
+                        children: "I am a Front-End / Full-Stack Developer. I am currently working as a Front-End Developer",
                       }),
                       (0, f.jsx)("div", {
                         className: "flex md:justify-start ",
@@ -15054,17 +15053,17 @@
                           f.jsx)("a", { href: e.link, className: "mr-5 cursor-pointer mt-8 hover:scale-125", children: (0, f.jsx)("img", { alt: "", src: e.url }) });
                         }),
                       }),
-                      (0, f.jsx)("div", {
-                        className: "mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start",
-                        children: (0, f.jsx)("div", {
-                          className: "mt-3 sm:mt-0 cursor-pointer w-1/2",
-                          children: (0, f.jsx)(g.rU, {
-                            className:
-                              "w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10",
-                            children: "Resume",
-                          }),
-                        }),
-                      }),
+                      // (0, f.jsx)("div", {
+                      //   className: "mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start",
+                      //   children: (0, f.jsx)("div", {
+                      //     className: "mt-3 sm:mt-0 cursor-pointer w-1/2",
+                      //     children: (0, f.jsx)(g.rU, {
+                      //       className:
+                      //         "w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10",
+                      //       children: "Resume",
+                      //     }),
+                      //   }),
+                      // }),
                     ],
                   }),
                   (0, f.jsx)(Za.img, {
@@ -15130,34 +15129,121 @@
                 class: "p-5",
                 children: [
                   (0, f.jsx)("a", {
-                    href: "helo",
+                    href: "https://www.grandbazaarjewelers.com",
+                    target: "_blank",
                     children: (0, f.jsx)("h5", {
                       class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white",
-                      children: "Noteworthy technology acquisitions 2021",
+                      children: "Jewelry store",
                     }),
                   }),
                   (0, f.jsx)("p", {
                     class: "mb-3 font-normal text-gray-700 dark:text-gray-400",
-                    children: "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+                    children:
+                      "This project had two parts, one on the client side and the other on the admin side. The customer's order process and admin approval and order management have been completed.",
                   }),
-                  (0, f.jsxs)("a", {
-                    href: "hello",
-                    class:
-                      "inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300",
-                    children: [
-                      "Read more",
-                      (0, f.jsx)("svg", {
-                        class: "ml-2 -mr-1 w-4 h-4",
-                        fill: "currentColor",
-                        viewBox: "0 0 20 20",
-                        xmlns: "http://www.w3.org/2000/svg",
-                        children: (0, f.jsx)("path", {
-                          "fill-rule": "evenodd",
-                          d: "M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z",
-                          "clip-rule": "evenodd",
-                        }),
-                      }),
-                    ],
+                ],
+              }),
+            ],
+          });
+        },
+        El_0 = function () {
+          return (0, f.jsxs)(Za.div, {
+            initial: "hidden",
+            whileInView: "visible",
+            variants: { visible: { opacity: 1 }, hidden: { opacity: 0 } },
+            class: "max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8",
+            children: [
+              (0, f.jsx)("a", {
+                href: "https://nyxmag.com/",
+                target: "_blank",
+                children: (0, f.jsx)("img", {
+                  class: "rounded-t-lg w-full",
+                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  alt: "",
+                }),
+              }),
+              (0, f.jsxs)("div", {
+                class: "p-5",
+                children: [
+                  (0, f.jsx)("a", {
+                    href: "https://nyxmag.com/",
+                    target: "_blank",
+                    children: (0, f.jsx)("h5", {
+                      class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white",
+                      children: "Modeling products",
+                    }),
+                  }),
+                  (0, f.jsx)("p", {
+                    class: "mb-3 font-normal text-gray-700 dark:text-gray-400",
+                    children: "Website development using React. The development process was quick and exactly like the Figma and figures given.",
+                  }),
+                ],
+              }),
+            ],
+          });
+        },
+        El_1 = function () {
+          return (0, f.jsxs)(Za.div, {
+            initial: "hidden",
+            whileInView: "visible",
+            variants: { visible: { opacity: 1 }, hidden: { opacity: 0 } },
+            class: "max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8",
+            children: [
+              (0, f.jsx)("p", {
+                children: (0, f.jsx)("img", {
+                  class: "rounded-t-lg w-full",
+                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  alt: "",
+                }),
+              }),
+              (0, f.jsxs)("div", {
+                class: "p-5",
+                children: [
+                  (0, f.jsx)("p", {
+                    children: (0, f.jsx)("h5", {
+                      class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white",
+                      children: "Ministry staff management",
+                    }),
+                  }),
+                  (0, f.jsx)("p", {
+                    class: "mb-3 font-normal text-gray-700 dark:text-gray-400",
+                    children:
+                      "This project was the most challenging project of mine. It was a website of about 50 pages for the management of an organization that had various features such as Realtime databse / Cloud messaging /websocket /, a custom chart to show the presence and absence of employees in a timeline."
+                  }),
+                ],
+              }),
+            ],
+          });
+        },
+        El_2 = function () {
+          return (0, f.jsxs)(Za.div, {
+            initial: "hidden",
+            whileInView: "visible",
+            variants: { visible: { opacity: 1 }, hidden: { opacity: 0 } },
+            class: "max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8",
+            children: [
+              (0, f.jsx)("a", {
+                href: "https://www.grandbazaarjewelers.com/",
+                target: "_blank",
+                children: (0, f.jsx)("img", {
+                  class: "rounded-t-lg w-full",
+                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  alt: "",
+                }),
+              }),
+              (0, f.jsxs)("div", {
+                class: "p-5",
+                children: [
+                  (0, f.jsx)("p", {
+                    children: (0, f.jsx)("h5", {
+                      class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white",
+                      children: "Plants Shop",
+                    }),
+                  }),
+                  (0, f.jsx)("p", {
+                    class: "mb-3 font-normal text-gray-700 dark:text-gray-400",
+                    children:
+                      "In this project, an online store called Plants Shop has been built, and the customer can choose his favorite plant and order it for delivery by post. In this project, options such as; The possibility of rating, commenting under the photo of each plant, the possibility of adding the plant by admin or authorized users, the number available for sale, the possibility of describing the plant.",
                   }),
                 ],
               }),
@@ -15176,7 +15262,7 @@
                 (0, f.jsx)("h4", { className: "mt-16 text-3xl font-semibold text-blue-600", children: "What I Built" }),
                 (0, f.jsxs)("div", {
                   className: "mt-8 flex justify-between items-stretch flex-wrap",
-                  children: [(0, f.jsx)(Dl, {}), (0, f.jsx)(Dl, {}), (0, f.jsx)(Dl, {}), (0, f.jsx)(Dl, {}), (0, f.jsx)(Dl, {})],
+                  children: [(0, f.jsx)(Dl, {}), (0, f.jsx)(El_0, {}), (0, f.jsx)(El_1, {}), (0, f.jsx)(El_2, {})],
                 }),
               ],
             }),
