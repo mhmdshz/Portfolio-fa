@@ -8679,8 +8679,6 @@
           { name: "Express", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" },
           { name: "NodeJS", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" },
           { name: "Postman", link: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
-          { name: "Dart", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" },
-          { name: "Flutter", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" },
           { name: "React Native", link: "https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" },
           { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
           { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
@@ -14500,13 +14498,13 @@
                           }),
                         }),
                         (0, f.jsx)("div", {
-                          onClick: function () {
-                            return u();
-                          },
+                          // onClick: function () {
+                          //   return u();
+                          // },
                           children: i
                             ? (0, f.jsx)("img", {
                                 src: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-sun-lighting-flaticons-flat-flat-icons.png",
-                                className: "w-6 ml-6 cursor-pointer hover:scale-1.50 block",
+                                className: "w-6 ml-6 hover:scale-1.50 block",
                                 alt: "",
                               })
                             : (0, f.jsx)("img", {
