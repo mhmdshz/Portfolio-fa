@@ -8682,7 +8682,7 @@
           { name: "React Native", link: "https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" },
           { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
           { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
-          { name: "Bootstrap", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" },
+          { name: "MUI", link: "https://avatars.githubusercontent.com/u/33663932?s=200&v=4" },
           { name: "Redux", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" },
           { name: "Sass", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" },
           { name: "Javascript", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
@@ -8693,6 +8693,11 @@
           { name: "Heroku", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" },
           { name: "Git", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" },
           { name: "Firebase", link: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" },
+          { name: "PWA", link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" },
+          {
+            name: "Next js",
+            link: "https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png",
+          },
         ],
         s = [
           // {
@@ -8709,8 +8714,8 @@
             img: "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
           },
           {
-            name: "Mobile Application Development",
-            desc: "Including custom mobile development on Android platforms and PWA",
+            name: "Progressive Web App Development",
+            desc: "Including PWA development for Android and iOS platforms",
             img: "https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-app-development-responsive-web-design-justicon-lineal-color-justicon.png",
           },
           {
@@ -8796,7 +8801,7 @@
                           (0, f.jsxs)("a", {
                             href: "hello",
                             className: "mt-4  mb-12 md:text-right font-semibold text-blue-700 block",
-                            children: ["Netherlands/Amsterdam"],
+                            children: ["Iran/Fars/Emamshahr"],
                           }),
                         ],
                       }),
@@ -14593,7 +14598,7 @@
                         (0, f.jsx)("p", {
                           className: t ? "mt-4 text-xl text-justify text-gray-500" : "mt-4 text-xl text-justify text-white",
                           children:
-                            "I'm a self-taught web developer and Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.Currently, I'm focused on the frontend development.",
+                            "Self-motivated Web Developer with 5 yrs of experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Interested in roles indulging best practices and offering diverse customer projects.",
                         }),
                       ],
                     }),
@@ -14603,7 +14608,7 @@
                         (0, f.jsx)("p", {
                           className: t ? "mt-4 text-xl text-justify text-gray-500" : "mt-4 text-xl text-justify text-white",
                           children:
-                            "Using a combination of cutting-edge technologies and reliable open-source software I build user-focused, performant apps and websites for smartphones, tablets, and desktops.",
+                            "Using a combination of cutting-edge technologies and reliable open-source software I build user-focused websites.",
                         }),
                       ],
                     }),
@@ -15116,10 +15121,10 @@
             class: "max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8",
             children: [
               (0, f.jsx)("a", {
-                href: "hello",
+                href: "https://www.grandbazaarjewelers.com",
                 children: (0, f.jsx)("img", {
                   class: "rounded-t-lg w-full",
-                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  src: "https://www.providentjewelry.com/wp-content/uploads/2020/08/Provident-Jewelry-WPB-Location-018.jpg",
                   alt: "",
                 }),
               }),
@@ -15156,7 +15161,7 @@
                 target: "_blank",
                 children: (0, f.jsx)("img", {
                   class: "rounded-t-lg w-full",
-                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  src: "https://nyxmag.com/wp-content/uploads/2022/12/guzellik_3_NYXmag_ust.webp",
                   alt: "",
                 }),
               }),
@@ -15190,7 +15195,7 @@
               (0, f.jsx)("p", {
                 children: (0, f.jsx)("img", {
                   class: "rounded-t-lg w-full",
-                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  src: "https://www.vanderbloemen.com/hs-fs/hubfs/3%20Reasons%20Why%20Your%20Church%20Staff%20Team%20Needs%20An%20Office.jpg?width=640&name=3%20Reasons%20Why%20Your%20Church%20Staff%20Team%20Needs%20An%20Office.jpg",
                   alt: "",
                 }),
               }),
@@ -15206,7 +15211,7 @@
                   (0, f.jsx)("p", {
                     class: "mb-3 font-normal text-gray-700 dark:text-gray-400",
                     children:
-                      "This project was the most challenging project of mine. It was a website of about 50 pages for the management of an organization that had various features such as Realtime databse / Cloud messaging /websocket /, a custom chart to show the presence and absence of employees in a timeline."
+                      "This project was the most challenging project of mine. It was a website of about 50 pages for the management of an organization that had various features such as Realtime databse / Cloud messaging /websocket /, a custom chart to show the presence and absence of employees in a timeline.",
                   }),
                 ],
               }),
@@ -15220,12 +15225,11 @@
             variants: { visible: { opacity: 1 }, hidden: { opacity: 0 } },
             class: "max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8",
             children: [
-              (0, f.jsx)("a", {
-                href: "https://www.grandbazaarjewelers.com/",
-                target: "_blank",
+              (0, f.jsx)("p", {
+                href: "",
                 children: (0, f.jsx)("img", {
                   class: "rounded-t-lg w-full",
-                  src: "https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg",
+                  src: "https://www.columbusnavigator.com/wp-content/uploads/2021/10/jewelweed-flower-plant-shop-1.jpeg",
                   alt: "",
                 }),
               }),
